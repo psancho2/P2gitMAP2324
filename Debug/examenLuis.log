@@ -1,0 +1,3 @@
+﻿  examenLuis.cpp
+C:\Users\user\source\repos\_2024FP1\examenLuis\examenLuis.cpp(16,60): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDistrito' cuando no hay ninguna variable declarada
+  examenLuis.vcxproj -> C:\Users\user\source\repos\_2024FP1\examenLuis\Debug\examenLuis.exe
